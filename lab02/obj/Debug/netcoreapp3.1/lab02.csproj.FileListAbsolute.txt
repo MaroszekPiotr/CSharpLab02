@@ -1,0 +1,13 @@
+D:\Nauka\C Sharp\Laboratorium\lab02\bin\Debug\netcoreapp3.1\lab02.exe
+D:\Nauka\C Sharp\Laboratorium\lab02\bin\Debug\netcoreapp3.1\lab02.deps.json
+D:\Nauka\C Sharp\Laboratorium\lab02\bin\Debug\netcoreapp3.1\lab02.runtimeconfig.json
+D:\Nauka\C Sharp\Laboratorium\lab02\bin\Debug\netcoreapp3.1\lab02.runtimeconfig.dev.json
+D:\Nauka\C Sharp\Laboratorium\lab02\bin\Debug\netcoreapp3.1\lab02.dll
+D:\Nauka\C Sharp\Laboratorium\lab02\bin\Debug\netcoreapp3.1\lab02.pdb
+D:\Nauka\C Sharp\Laboratorium\lab02\obj\Debug\netcoreapp3.1\lab02.csprojAssemblyReference.cache
+D:\Nauka\C Sharp\Laboratorium\lab02\obj\Debug\netcoreapp3.1\lab02.AssemblyInfoInputs.cache
+D:\Nauka\C Sharp\Laboratorium\lab02\obj\Debug\netcoreapp3.1\lab02.AssemblyInfo.cs
+D:\Nauka\C Sharp\Laboratorium\lab02\obj\Debug\netcoreapp3.1\lab02.csproj.CoreCompileInputs.cache
+D:\Nauka\C Sharp\Laboratorium\lab02\obj\Debug\netcoreapp3.1\lab02.dll
+D:\Nauka\C Sharp\Laboratorium\lab02\obj\Debug\netcoreapp3.1\lab02.pdb
+D:\Nauka\C Sharp\Laboratorium\lab02\obj\Debug\netcoreapp3.1\lab02.genruntimeconfig.cache

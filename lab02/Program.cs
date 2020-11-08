@@ -6,7 +6,9 @@ namespace lab02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Pracownik jacek = new Pracownik("Nowak", new DateTime(2020, 11, 07), 5000);
+            Pracownik wacek = new Pracownik();
+            System.Console.WriteLine(wacek);
         }
     }
 }
