@@ -1,0 +1,12 @@
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\bin\Debug\netcoreapp3.1\Lab02InterfaceImplementation.exe
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\bin\Debug\netcoreapp3.1\Lab02InterfaceImplementation.deps.json
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\bin\Debug\netcoreapp3.1\Lab02InterfaceImplementation.runtimeconfig.json
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\bin\Debug\netcoreapp3.1\Lab02InterfaceImplementation.runtimeconfig.dev.json
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\bin\Debug\netcoreapp3.1\Lab02InterfaceImplementation.dll
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\bin\Debug\netcoreapp3.1\Lab02InterfaceImplementation.pdb
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\obj\Debug\netcoreapp3.1\Lab02InterfaceImplementation.AssemblyInfoInputs.cache
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\obj\Debug\netcoreapp3.1\Lab02InterfaceImplementation.AssemblyInfo.cs
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\obj\Debug\netcoreapp3.1\Lab02InterfaceImplementation.csproj.CoreCompileInputs.cache
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\obj\Debug\netcoreapp3.1\Lab02InterfaceImplementation.dll
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\obj\Debug\netcoreapp3.1\Lab02InterfaceImplementation.pdb
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\obj\Debug\netcoreapp3.1\Lab02InterfaceImplementation.genruntimeconfig.cache
