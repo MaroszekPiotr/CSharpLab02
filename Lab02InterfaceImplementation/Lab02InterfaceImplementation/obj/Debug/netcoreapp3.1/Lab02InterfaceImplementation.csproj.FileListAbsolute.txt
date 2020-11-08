@@ -10,3 +10,4 @@ C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementati
 C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\obj\Debug\netcoreapp3.1\Lab02InterfaceImplementation.dll
 C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\obj\Debug\netcoreapp3.1\Lab02InterfaceImplementation.pdb
 C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\obj\Debug\netcoreapp3.1\Lab02InterfaceImplementation.genruntimeconfig.cache
+C:\Users\marop\source\repos\MaroszekPiotr\CSharpLab02\Lab02InterfaceImplementation\Lab02InterfaceImplementation\obj\Debug\netcoreapp3.1\Lab02InterfaceImplementation.csprojAssemblyReference.cache

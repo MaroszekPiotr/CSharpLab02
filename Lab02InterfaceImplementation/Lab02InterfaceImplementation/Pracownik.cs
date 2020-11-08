@@ -38,7 +38,7 @@ namespace Lab02InterfaceImplementation
         }
         public override string ToString()
         {
-            return $"{Nazwisko}, {DataZatrudnienia} ({this.CzasZatrudnienia}), {Wynagrodzenie}";
+            return $"{Nazwisko}, {DataZatrudnienia:d} ({this.CzasZatrudnienia}), {Wynagrodzenie}";
         }
 
         public int CzasZatrudnienia => (DateTime.Now - DataZatrudnienia).Days / 30; //Int32.Parse((DateTime.Now.Date.Subtract(DataZatrudnienia) / 30).ToString());
@@ -46,7 +46,14 @@ namespace Lab02InterfaceImplementation
         public bool Equals(Pracownik other)
         {
             if (other == null) return false;
-            return true;
+            if (Object.ReferenceEquals(this, other)) return true;
+            return (Nazwisko == other.Nazwisko && DataZatrudnienia==other.DataZatrudnienia && Wynagrodzenie == other.Wynagrodzenie);
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (obj is Pracownik) return Equals((Pracownik)obj);
+            else return false;
         }
     }
 }
